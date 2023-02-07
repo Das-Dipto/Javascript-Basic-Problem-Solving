@@ -25,7 +25,8 @@ function mindGame(mindGame_number){
     }
 }
 
-console.log(mindGame(5));
-console.log(mindGame(50));
-console.log(mindGame(33));
+// console.log(mindGame(5));
+// console.log(mindGame(30));
+// console.log(mindGame(33));
+
 
